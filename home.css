@@ -35,7 +35,6 @@ h1{
 #link{
     font-size: 110%;
     letter-spacing: 2px;
-    display: flex;
    
 }
 
@@ -46,7 +45,6 @@ h1{
 
 #link li{
     list-style-type: none;
-    position: relative;
     left:200%;
     margin-right:10px;
     margin-left: 10px;    
@@ -130,7 +128,7 @@ h1{
     box-shadow: 2px 2px 2px 2px whitesmoke;
 
 }
-h2{
+h3{
     line-height: 20pt;
 }
 
@@ -172,9 +170,10 @@ footer {
 }
 
 iframe{
-    margin: 35px;
-    width:95%;
-    height:600px;
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    height: 500px;
 }
 
 .written{
@@ -186,13 +185,16 @@ h2 {
     display: flex;
     flex-direction: row;
     margin-top: 30px;
+    font-style: italic;
   }
+
   h2:before, h2:after{
     content: "";
     flex: 1 1;
     border-bottom: 1px solid;
     margin: auto;
   }
+
   h2:before {
     margin-right: 15px;
   }
@@ -210,8 +212,192 @@ h2 {
   .image{
     width:200px;
     height:300px;
+    padding: 5px;
 }
-img:hover{
-    transform: scale(0.5);
+.book{
+    border: 1px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.book:hover{
+    transform: scale(0.9);
+}
+h6{
+    text-align: center;
+}
+.freedom-fighter-movies{
+    display: block;
+    display: flex;
+    justify-content: space-around;
+    margin:20px;
 }
 
+.movies{
+    border: 2px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+.movies:hover{
+    transform: scale(0.9);
+}
+
+.image-movies{
+    width:300px;
+    height:300px;
+    padding: 6px;
+}
+
+.more-reference > p{
+    text-align: center;
+    margin: 20px;
+    letter-spacing: 2px;
+    font-size: large;
+}
+
+.Reference-link p{
+    font-size: large;
+    text-decoration: none;
+    color: black;  
+}
+
+.Reference-link{
+    border-radius: 2em;
+    background-color:#FAFAFA;
+    color: black;
+    box-shadow: 0 1px 10px 2px rgba(28, 27, 27, 0.837);
+    padding: 0.5rem 3rem;
+    text-decoration: none;
+}
+
+.flag-image{
+    width:30%;
+    height:30%;
+}
+
+.flag-year{
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+.flag-year:hover {
+        box-shadow: 5px 5px 5px 5px rgba(17, 16, 16, 0.5); 
+}
+
+.flag-box{
+    display: flex;
+
+}
+
+.flag-year > p{
+    justify-items: center;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.flag-year > img{
+    width:300px;
+    height:200px;
+
+}
+
+.flag-year > h4{
+    margin-top: 10px;
+}
+
+.independence-image{
+    width: 250px;
+    height: 250px;
+    margin-left:20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: flex;
+}
+#independence-details{
+    display: inline-block;
+}
+.more-history > p{
+    font-size: large;
+    text-decoration: none;
+    color: black; 
+}
+.History-link{
+    border-radius: 2em;
+    background-color:#FAFAFA;
+    color: black;
+    box-shadow: 0 1px 10px 2px rgba(28, 27, 27, 0.5);
+    padding: 0.5rem 3rem;
+    text-decoration: none;
+
+}
+.more-history> p{
+    text-align: center;
+    margin: 20px;
+    letter-spacing: 2px;
+    font-size: large;
+}
+
+.Indian-achievement{
+    display: flex;
+    margin:20px;
+    border:2px;
+    border-radius: 3px;
+    background-color:rgb(247, 244, 239);
+}
+.Indian-achievement-img{
+    margin:20px;
+}
+.achievements-img{
+    width:600px;
+    height:400px;
+}
+
+.Indian-achievement-details{
+    margin: 20px;
+    width:60%;
+    float: right;
+    text-align: justify;
+}
+@media screen and (max-width: 1200px)and (min-width: 1200px){
+    #middletext{
+        width:100%;
+        text-align: justify;
+        padding: 10px;
+        justify-content: none;
+        
+    }
+
+    #heading-text{
+        width: 50%;
+        align-items: center;
+    
+    }
+    #middlename{
+        text-align: center;
+        margin: 50px;
+        
+    }
+    .first-line{
+        
+        
+    
+    }
+    #link{
+        display: block;
+    
+    }
+    #image{
+        width:100%;
+    }
+
+
+}
+@media screen and (max-width: 900px) {
+
+        #link a{
+            flex-direction: column;
+            display: flex;
+        }
+}
