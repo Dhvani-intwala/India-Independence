@@ -50,6 +50,17 @@ Freedom fighter's website is simple to use website aimed for giving a brief intr
 
 ## Features
 ### **Existing Features**
+The website has four main pages accessible to the users include the home page, History of India page, Resources and Contact page.There is also a thank you page which only shows on submission  of the contact form.
+
+- All page include the features Logo, navigation bar, and footer.
+    - Logo: 
+    - Navigation bar: The navigation menu allows users to move through the different pages of the website.Navigation links are to the rightside: History , Resources, and Contact.
+    - Footer: The footer contains two universally recognised icons for social media,  Facebook , youtube and twitter. The links will open a new tab to allow esay navigation for the users.
+
+-  Here short vedio of how website look on mobile device.
+
+
+
 
 
 
