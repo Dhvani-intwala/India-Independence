@@ -55,9 +55,18 @@ The website has four main pages accessible to the users include the home page, H
 - All page include the features Logo, navigation bar, and footer.
     - Logo: 
     - Navigation bar: The navigation menu allows users to move through the different pages of the website.Navigation links are to the rightside: History , Resources, and Contact.
-    - Footer: The footer contains two universally recognised icons for social media,  Facebook , youtube and twitter. The links will open a new tab to allow esay navigation for the users.
+    - Footer: 
+        - The footer contains two universally recognised icons for social media,  Facebook , youtube and twitter. 
+        - The links will open a new tab to allow esay navigation for the users.
 
 -  Here short vedio of how website look on mobile device.
+
+
+
+### Homepage
+The homepage gives users a glimpse of Indian Freedom Fighter's through a large photo.
+- After the image there is the short descripations about the Indian independence movement.
+- Thereby the users will follow a brief introuctions of top six Indian Freedom Fighter's.
 
 
 
