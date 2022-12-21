@@ -8,14 +8,51 @@ Freedom fighter's website is simple to use website aimed for giving a brief intr
 
 # Table of Contents
 ----
- - [Purpose](#Purpose)
+ ### [Purpose](#Purpose)
 
  - [Design](#Design)
     - [imagery](#imagery)
     - [Color scheme](#colour-scheme)
     - [Fonts](#Fonts)
 
+ ### [Features](#features)
+
+ - [Existing Features](#existing-features)
+    - [Homepage](#homepage)
+    - [History of India](#history-of-India )
+    - [Resources](#resources)
+    - [Contact](#contact)
+    - [Thank You](#thank-you)
+- [Accessibility](#accessibility)
+- [Future Features](#future-features)
+
+### [Technologies](#technologies)
+
+### [Version Control](#version-control)
+
+### [Credits](#credits-1)
+- [Resources](#resources)
+- [Acknowledgements](#acknowledgements)
+
+<br>
+
 ----
+
+<br>
+
+### **Purpose**
+
+<br>
+
+----
+
+<br>
+
+## Features
+### **Existing Features**
+
+
+
 
 
 
