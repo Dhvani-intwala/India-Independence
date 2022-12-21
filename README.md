@@ -6,7 +6,10 @@ Freedom fighter's website is simple to use website aimed for giving a brief intr
 
 [Visit the Freedom fighter's live website here](https://8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu79.gitpod.io/home.html)
 
-# Contents
+# Table of Contents
+
+
+
 
 
 
