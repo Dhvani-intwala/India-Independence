@@ -10,10 +10,9 @@ Freedom fighter website is a simple-to-use website aimed at giving a brief intro
 ----
  ### [Purpose](#Purpose)
 
- - [Design](#Design)
-    - [imagery](#imagery)
-    - [Color scheme](#colour-scheme)
-    - [Fonts](#Fonts)
+ ### [Design](#Design)
+   - [Color scheme](#colour-scheme)
+   - [Fonts](#Fonts)
 
  ### [Features](#features)
 
@@ -23,15 +22,17 @@ Freedom fighter website is a simple-to-use website aimed at giving a brief intro
     - [Resources](#resources)
     - [Contact](#contact)
     - [Thank You](#thank-you)
+
 - [Accessibility](#accessibility)
-- [Future Features](#future-features)
+
 
 ### [Technologies](#technologies)
 
-### [Version Control](#version-control)
+### [Testing](#testing)
+
 
 ### [Credits](#credits-1)
-- [Resources](#resources)
+- [References](#references)
 - [Acknowledgements](#acknowledgements)
 
 <br>
@@ -46,8 +47,23 @@ The Purpose of this website is to make the user more aware of the contribution m
 <br>
 
 ----
+## Design
+### **colour Scheme**
 
-<br>
+This website uses a palette of colours with shades pulled from white,Orange and black. These embody I wanted to create for the site because it looks pleasing to the eyes. The palette was created using the [Coolors](https://coolors.co/) website.
+
+
+![Image of colour palette from Coolors.co](Readme-images/Colour-Scheme.png)
+
+## **Fonts**
+
+[Google Fonts](https://fonts.google.com/) was used to source the font styles used throughout the website:
+- Pacifico, cursive:  page/section headings
+- sans-serif: Used for main body text and the logo 
+
+These fonts were chosen to be in keeping with the style of the website; clean and simple. They were also chosen to ensure maximum accessibility.
+
+
 
 ## Features
 ### **Existing Features**
@@ -72,6 +88,7 @@ The website has four main pages which are accessible to the users, which are the
 
 
 ### Homepage
+
 The homepage gives users a glimpse of Indian Freedom Fighters through a large photo.
 - After the image, there are short descriptions of the Indian independence movement.
 - Thereby the users will follow brief introductions of the top six Indian Freedom Fighters.
@@ -81,37 +98,59 @@ The homepage gives users a glimpse of Indian Freedom Fighters through a large ph
 
 ### Historypage
 
-The History of India page consists of:
-- The simple layout of boxes. It is being divided into three sections the first section represents the Evolution of the Indian flag. the second section represents the historical achievements of India followed by the third section of the youtube video Indian National Anthem
+The History of India page consists of the simple layout of boxes. The webpage is being divided into three sections. The first section represents Timeline of the Indian flag. The second section describes about Indian historical achievements in different sector's followed by the third section of the youtube video - Indian National Anthem
 
 ![screenshot of the freedom-fighter's website Historypage](Readme-images/Historypage.png)
 
 
 ### Rescources
-On the resources page the user will:
-- If the user wants to know about India, the user can go to the resources page where a few books and movies about India. Freedom fighters are recommended, moreover, at the end of the resources page, there are a few website links to know more about India.
+
+If the user wants to know about India, the user can go to the resources page where a few books and movies about Indian Freedom fighters are recommended. Moreover, at the end of the resources page, there are a few website links which the user can explore if He / She wants to know more about India.
 
 ![screenshot of the freedom-fighter's website Resourcespage](Readme-images/resorcespage.png)
 
 ### Contact
 
-This page consists of:
+This page will allow the user to contact us if He / She want's to know more about freedom fighters of India. The webpage has a Contact Form where the user will be asked to submit their name, email address  along with the message. Additionally, they can contact us via Telephone, Email or by Post. 
 
-- This page will allow the user to contact to take more information about freedom fighters of India and know more about India. The user will be asked to submit their name, and email address  along with the inquiry text. Additionally, they can contact us via Telephone or Email.
-
-- Google Maps: A google map of the Exeter area is included
+At the end of the page there is a Google Map.
 
 
 ![screenshot of the freedom-fighter's website Contactpage](Readme-images/contactpage.png)
 
 
 ### Thank You
-This page consists of:
-- A thank you message confirming to the user that their message has been submitted and that someone will be in touch with them soon.
+
+This page will appear when the user will submit the contact form where a Thank you message will be displaced, confirming to the user that their message has been submitted, and that someone will be in touch with them soon.
 
 <br>
 
 ### **Accessibility**
+
+
+For the Best user experience having an accessible website is most important.
+
+Therefore I have used simple font styling so that the user can read easily. Also the contrast between the background and foreground color also meet good accessibility.The website is designed in such a way that the foreground information is never distracted by backgrounds.
+
+Addition of a fixed menu bar so users can easily navigate around the site. The website is made by Using semantic HTML. Ensuring all images have an alt description for screen readers or where the image cannot be loaded. 
+
+## Technologies
+### **Languages Used**
+This website has been written in HTML and CSS and a little bit of JavaScript.
+
+**Frameworks, Libraries, and Programs Used**
+- GitHub: Storing and hosting my code/repositories
+- Gitpod: Code editor for writing my code and storing other images/files
+- Font Awesome: For icons used throughout the site
+- Google Fonts: To import the fonts used throughout the site
+- Coolors: Colour palette picking website used to       choose my color scheme
+- Snipping Tool: To crop and screenshot images
+- [TinyPNG](https://tinypng.com/)  To compress images
+- [Convertio](https://convertio.co/)  To convert Jpg image to Webp
+- [Techsini](https://techsini.com/multi-mockup/)  For Responsive Website
+
+
+
 
 
 
