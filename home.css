@@ -14,15 +14,26 @@ body {
     background-color: rgb(243, 237, 235)
 }
 
-
-label.logo {
-    color: black;
-    font-size: 55px;
-    line-height: 80px;
-    padding: 0 10px;
-    font-family: 'Comforter', cursive;
-    cursor: pointer;
-}
+.topnav a {
+    float: left;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  
+  .topnav a.active {
+    background-color: #000000;
+    color: white;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
 
 
 .checkbutton {
@@ -84,8 +95,8 @@ h3 {
 }
 
 img {
-    width: 15vw;
-    height: 25vh;
+    width: 20vw;
+    height: 30vh;
 
 }
 
@@ -573,17 +584,6 @@ input[type=submit]:hover {
 
 @media screen and (max-width:952px) {
 
-    label.logo {
-        font-size: 35px;
-        width: 65%;
-        height: 120px;
-        padding-left: 50px;
-
-    }
-
-    nav ul li a {
-        font-size: 16px;
-    }
     .Thankyou-img{
         width:60vw;
         height: 40vh;
@@ -594,12 +594,6 @@ input[type=submit]:hover {
     .checkbutton {
         display: block;
     }
-
-    nav {
-        min-width: 100%;
-        min-height: 80px;
-    }
-
     .social-networks ul {
         position: static;
         width: 100%;
@@ -609,23 +603,6 @@ input[type=submit]:hover {
         text-align: center;
         transition: all .5s;
 
-    }
-
-    nav ul li {
-        display: block;
-        margin: 50px;
-        line-height: 40px;
-
-
-    }
-
-    nav ul li a {
-        font-size: 20px;
-        color: #FAFAFA;
-    }
-
-    #check:checked~ul {
-        left: 0;
     }
 
     #image {
@@ -686,15 +663,6 @@ input[type=submit]:hover {
 
 }
 
-@media screen and (max-width:686px) {
-
-    nav {
-        min-width: 100vw;
-        min-height: 80px;
-    }
-
-}
-
 .topnav {
     overflow: hidden;
     background-color: orange;
@@ -703,26 +671,7 @@ input[type=submit]:hover {
     justify-content: space-between;
   }
   
-  .topnav a {
-    float: left;
-    display: block;
-    color: #FFFFFF;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    font-weight: 700;
-  }
-  
-  
-  .topnav a.active {
-    background-color: #000000;
-    color: white;
-  }
-  
-  .topnav .icon {
-    display: none;
-  }
+ 
   
   @media screen and (max-width: 600px) {
     .topnav .hidden a {display: none;}

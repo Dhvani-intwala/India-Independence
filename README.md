@@ -1,6 +1,6 @@
 # Freedom Fighter's
 
-Freedom fighter's website is simple to use website aimed for giving a brief introduction of Indian freedom fighter's and thier contribution , on the second page of freedom fighter's website named as History of India. you will find evolution of Indian flag and the brief introduction of Indian achievements. more over to know more about Indian history and freedom fighter's you can refers to resources and you can contact us.
+Freedom fighter website is a simple-to-use website aimed at giving a brief introduction to Indian freedom fighters and their contribution, on the second page of the freedom fighter's website is named History of India. you will find the evolution of the Indian flag and a brief introduction to Indian achievements. to know more about Indian history and freedom fighters you can refer to resources and you can contact us.
 
 ![Image of Freedom fighter's website on a varitey of devices with differing screen sizes](Readme-images/responsive.png)
 
@@ -41,6 +41,7 @@ Freedom fighter's website is simple to use website aimed for giving a brief intr
 <br>
 
 ### **Purpose**
+The Purpose of this website is to make the user more aware of the contribution made by Indian freedom fighters to get freedom from British rule in India and to make aware of how Indian flags have been changing over the years the user can also have a summary of few achievements of India after Independence. Moreover, to make the website user-friendly, the reader can also watch the Indian anthem on our website and if the reader whats to explore more about India, its culture, and its History many website and links are also provided.
 
 <br>
 
@@ -50,28 +51,30 @@ Freedom fighter's website is simple to use website aimed for giving a brief intr
 
 ## Features
 ### **Existing Features**
-The website has four main pages accessible to the users include the home page, History of India page, Resources and Contact page.There is also a thank you page which only shows on submission  of the contact form.
+The website has four main pages which are accessible to the users, which are the home page, History of India page, Resources, and Contact page. There is also a thank you page which only appears when the user submits the contact form.
 
-- All page include the features Logo, navigation bar, and footer.
-    - Logo: 
-    - Navigation bar: The navigation menu allows users to move through the different pages of the website.Navigation links are to the rightside: History , Resources, and Contact.
+- All pages include the features Logo, navigation bar, and footer.
+   - Logo: The Logo of Indian Freedom fighters gives the user a clear idea of what this website is all about. Here is the Logo shown below.
+
+   ![screenshot of Logo](Readme-images/Logo.png)
+
+   - Navigation bar: The navigation menu allows users to move through the different pages on the website. Navigation links are to the right side: History , Resources, and Contact.
 
     ![screenshot of the freedom-fighter's navigation bar](Readme-images/menu-bar.png)
 
     - Footer: 
-        - The footer contains two universally recognised icons for social media,  Facebook , youtube and twitter. 
-        - The links will open a new tab to allow esay navigation for the users.
+        - The footer contains three universally recognized icons for social media: Facebook, Youtube, and Twitter. 
+        - Social media icon links will open a new tab to allow easy navigation for the users.
 
      ![screenshot of the freedom-fighter's website footer](Readme-images/footer.png)
 
--  Here short video of how website look on mobile device.
-
+-  Here is a short preview of how a website looks on a mobile device.
 
 
 ### Homepage
-The homepage gives users a glimpse of Indian Freedom Fighter's through a large photo.
-- After the image there is the short descripations about the Indian independence movement.
-- Thereby the users will follow a brief introuctions of top six Indian Freedom Fighter's.
+The homepage gives users a glimpse of Indian Freedom Fighters through a large photo.
+- After the image, there are short descriptions of the Indian independence movement.
+- Thereby the users will follow brief introductions of the top six Indian Freedom Fighters.
 
  ![screenshot of the freedom-fighter's website homepage](Readme-images/homepage.png)
 
@@ -79,19 +82,27 @@ The homepage gives users a glimpse of Indian Freedom Fighter's through a large p
 ### Historypage
 
 The History of India page consists of:
-- The simple layout of boxes. It is being diveded in to three section first section represent the Evolution of the Indian fla. second section represent historical achievements of india followed by third section of youtube video Indian National Anthem.
+- The simple layout of boxes. It is being divided into three sections the first section represents the Evolution of the Indian flag. the second section represents the historical achievements of India followed by the third section of the youtube video Indian National Anthem
 
+![screenshot of the freedom-fighter's website Historypage](Readme-images/Historypage.png)
 
 
 ### Rescources
-In the resources page the user will:
-- If the user wants to know about India, the user can go to resources page where few books and movies of Indian. Freedoom fighter's are recommended,moreover at the end of resources page there are few website links to know more about India.
+On the resources page the user will:
+- If the user wants to know about India, the user can go to the resources page where a few books and movies about India. Freedom fighters are recommended, moreover, at the end of the resources page, there are a few website links to know more about India.
 
-
+![screenshot of the freedom-fighter's website Resourcespage](Readme-images/resorcespage.png)
 
 ### Contact
+
 This page consists of:
-- 
+
+- This page will allow the user to contact to take more information about freedom fighters of India and know more about India. The user will be asked to submit their name, and email address  along with the inquiry text. Additionally, they can contact us via Telephone or Email.
+
+- Google Maps: A google map of the Exeter area is included
+
+
+![screenshot of the freedom-fighter's website Contactpage](Readme-images/contactpage.png)
 
 
 ### Thank You
@@ -99,6 +110,8 @@ This page consists of:
 - A thank you message confirming to the user that their message has been submitted and that someone will be in touch with them soon.
 
 <br>
+
+### **Accessibility**
 
 
 
