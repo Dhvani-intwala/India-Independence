@@ -178,11 +178,9 @@ Testing was performed across a range of devices, including:
 ### **Lighthouse**
 
    - Lighthouse test for Mobile
-   <br>
-   ![screenshot of website performance test](Readme-images/mobile-performance-test.png)
+    ![screenshot of website performance test](Readme-images/mobile-performance-test.png)
    
    - Lighthouse test for Desktop
-   <br>
    ![screenshot of website performance test](Readme-images/Desktop-performance-test.png)
 
 
