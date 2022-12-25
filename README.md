@@ -220,12 +220,14 @@ Testing was performed across a range of devices, including:
          - Indian flag [1931](https://timesofindia.indiatimes.com/100-years-ago-national-flag-took-shape/photostory/81773867.cms)
          - Indian flag [1947](https://timesofindia.indiatimes.com/100-years-ago-national-flag-took-shape/photostory/81773867.cms)
 
-      - History:
+      - More References:
 
          - [Achivements](https://www.youtube.com/watch?v=xZ-3BIKbjtE)
-         - [More history](https://www.psgtech.edu/ncc/3FlagHistory.html)
-         - [More history about India](https://www.reddit.com/r/vexillology/comments/j41tlv/timeline_of_all_flags_of_india/)
-         - [Freedom fighter's of india](https://www.studyiq.com/articles/freedom-fighters-of-india/)
+         - [India national symbols](https://www.psgtech.edu/ncc/03Symbols.html)
+         - [India flags timeline](https://www.reddit.com/r/vexillology/comments/j41tlv/timeline_of_all_flags_of_india/)
+         - [Freedom fighter's of India](https://www.studyiq.com/articles/freedom-fighters-of-india/)
+         - [Story of India](https://www.pbs.org/thestoryofindia/resources/books/)
+         - [Freedom Fighters](https://businesstalkmagazine.com/blog/top-10-freedom-fighters-of-india/)
          
   ### **Acknowledgements**
 
