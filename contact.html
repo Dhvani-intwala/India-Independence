@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Freedom fighter's of India, and history of Indian">
+        <meta name="keyword" content="indian freedom fighter's, history of Indian, freedom fighter's movies and books">
+        <title>Contact | Freedom Fighter's Of India</title>
+        <link rel="stylesheet" href="style.css" >
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    </head>
+
+    <body>
+        <div class="topnav" id="myTopnav">
+            <div>
+                <a href="/index.html" class="active">Freedom-Fighter's</a>
+            </div>
+            <div class="hidden">
+                <a href="/history.html">History</a>
+                <a href="/resources.html">Resources</a>
+                <a href="/contact.html">Contact</a>
+                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <i class="fa fa-bars"></i>
+                </a>
+            </div>
+        </div>
+        <h2><em>Contact Us</em></h2>
+        <div class="contact-text">
+            <p >If have any feedback or suggestions please fill in this form</p>  
+        </div>
+
+        <div class="contactForm">
+               
+            <form action="thankyou.html">
+                <div class="input-box">
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="fname" required >
+                </div>
+                <div class="input-box">
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="lname" name="lname" required >
+                </div>
+                <div class="input-box">
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email" required >
+                </div>
+                <div class="input-box">
+                    <label for="message">Your Message</label>
+                    <textarea id="message" placeholder="Start typing.."></textarea>
+                </div>
+                <div class="input-box">
+                    <input type="submit" value="Send" class="button" >
+                </div>
+            </form>
+        
+        </div>
+
+        <footer>
+            <ul class="social-networks">
+                <li>
+                    <h3>Follow Us</h3>
+                </li>
+
+                <li>
+                    <a href="https://facebook.com" target="_blank" rel="noopener" aria-label="Visit our Facebook page"><i class="fab fa-facebook"></i></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com" target="_blank" rel="noopener" aria-label="Visit our Twitter page"><i class="fab fa-twitter-square"></i></a>
+                </li>
+                <li>
+                    <a href="https://youtube.com" target="_blank" rel="noopener" aria-label="Visit our YouTube page"><i class="fab fa-youtube-square"></i></a>
+                </li>
+
+                <li><p>@copyright Freedom-Fighter's</p></li>
+            </ul>
+        </footer>
+        <!--  *********** javascript: for responsive - lernt during my master's ************* -->
+        <script>
+            function classToggle() {
+                const navs = document.querySelectorAll(".Navbar__Items");
+
+                navs.forEach((nav) => nav.classList.toggle("Navbar__ToggleShow"));
+            }
+
+            document.querySelector(".Navbar__Link-toggle").addEventListener("click", classToggle);
+        </script>
+        <script>
+            function myFunction() {
+                var x = document.getElementById("myTopnav");
+                if (x.className === "topnav") {
+                    x.className += " responsive";
+                } else {
+                    x.className = "topnav";
+                }
+            }
+        </script>
+        <script src="https://kit.fontawesome.com/b59d6ce89e.js" crossorigin="anonymous"></script>
+    </body>
+</html>
