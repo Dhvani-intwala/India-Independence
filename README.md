@@ -11,8 +11,8 @@ Freedom fighter website is a simple-to-use, informative website aimed at giving 
 
 ### [Design](#design-1)
 
-   - [Color scheme](#colour-scheme)
-   - [Fonts](#Fonts)
+   - [Colour scheme](#colour-scheme)
+   - [Fonts](#fonts)
 
 ### [Features](#features-1)
 
@@ -43,10 +43,9 @@ Freedom fighter website is a simple-to-use, informative website aimed at giving 
 
 ----
 ## Design
-### **colour Scheme**
+### **Colour Scheme**
 
 This website uses a palette of colours with shades pulled from white,Orange and black. These embody I wanted to create for the site because it looks pleasing to the eyes. The palette was created using the [Coolors](https://coolors.co/) website.
-
 
 ![Image of colour palette from Coolors.co](Readme-images/Colour-Scheme.png)
 
@@ -57,8 +56,6 @@ This website uses a palette of colours with shades pulled from white,Orange and 
 - sans-serif : Used for main body text and the logo 
 
 These fonts were chosen to be in keeping with the style of the website; clean and simple. They were also chosen to ensure maximum accessibility.
-
-
 
 ## Features
 ### **Existing Features**
@@ -89,8 +86,7 @@ The website has four main pages which are accessible to the users, which are the
 ### Homepage
 
 The homepage gives users a glimpse of Indian Freedom Fighters through a large photo.
-- After the image, there are short descriptions of the Indian independence movement.
-- Thereby the users will follow brief introduction of the top six Indian Freedom Fighters.
+After the image, there are short descriptions of the Indian independence movement. Thereby the users will follow brief introduction of the top six Indian Freedom Fighters.
 
  ![screenshot of the freedom-fighter's website homepage](Readme-images/Screenshot-Home-page.png)
 
@@ -125,18 +121,17 @@ This page will appear when the user will submit the contact form where a Thank y
 
 ### **Accessibility**
 
-
-For the Best user experience having an accessible website is most important.
-
-Therefore I have used simple font styling so that the user can read easily. Also the contrast between the background and foreground color also meet good accessibility.The website is designed in such a way that the foreground information is never distracted by backgrounds.
+For the Best user experience having an accessible website is most important. Therefore, I have used simple font styling so that the user can read easily. Also the contrast between the background and foreground color also meet good accessibility.The website is designed in such a way that the foreground information is never distracted by backgrounds.
 
 Addition of a fixed menu bar so users can easily navigate around the site. The website is made by Using semantic HTML. Ensuring all images have an alt description for screen readers or where the image cannot be loaded. 
 
 ## Technologies
 ### **Languages Used**
+
 This website has been written in HTML and CSS and a little bit of JavaScript.
 
 **Frameworks, Libraries, and Programs Used**
+
 - GitHub: Storing and hosting my code/repositories
 - Gitpod: Code editor for writing my code and storing other images/files
 - Font Awesome: For icons used throughout the site
@@ -149,6 +144,7 @@ This website has been written in HTML and CSS and a little bit of JavaScript.
 - [Techsini](https://techsini.com/multi-mockup/): For Responsive Website
 
 ## Testing
+
 Testing was performed across a range of devices, including:
 
 - all website pages have been tested on different browsers: Chrome, Edge, and Safari.
@@ -187,7 +183,7 @@ Testing was performed across a range of devices, including:
 
 ### Validator Testing 
 
-   No error was returned when passing through the official website for all the pages:
+No error was returned when passing through the official website for all the pages:
 
   -  index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Findex.html)
   -  history.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fhistory.html)
@@ -201,7 +197,7 @@ Testing was performed across a range of devices, including:
   ## Credits
   ### **References**
 
-  - Some of the texts and images  for the Home page and Our History page was taken from different search results from Google/Bing.
+  Some of the texts and images  for the Home page and Our History page was taken from different search results from Google/Bing.
 
   - References for images:
       - Index page:
@@ -221,7 +217,6 @@ Testing was performed across a range of devices, including:
          - Indian flag [1947](https://timesofindia.indiatimes.com/100-years-ago-national-flag-took-shape/photostory/81773867.cms)
 
       - More References:
-
          - [Achivements](https://www.youtube.com/watch?v=xZ-3BIKbjtE)
          - [India national symbols](https://www.psgtech.edu/ncc/03Symbols.html)
          - [India flags timeline](https://www.reddit.com/r/vexillology/comments/j41tlv/timeline_of_all_flags_of_india/)
