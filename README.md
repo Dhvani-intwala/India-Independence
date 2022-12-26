@@ -4,7 +4,7 @@ Freedom fighter website is a simple-to-use, informative website aimed at giving 
 
 ![Image of Freedom fighter's website on a varitey of devices with differing screen sizes](assets/Readme-images/responsive-page.png)
 
-[Visit the Freedom fighter's live website here](https://8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu79.gitpod.io/home.html)
+[Visit the Freedom fighter's live website here](https://dhvani-intwala.github.io/India-Independence/)
 
 ## Table of Contents
 ----

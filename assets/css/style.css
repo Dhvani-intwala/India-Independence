@@ -550,11 +550,11 @@ input[type="submit"]:hover {
         height: 10vh;
     }
     img {
-        width: 70vw;
+        width: 40vw;
     }
     .main{
         width: 100vw;
-        height: 50vh;
+        height: 35vh;
     }
 
     .image-movies {
