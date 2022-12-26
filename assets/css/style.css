@@ -48,6 +48,7 @@ body {
     width: 100vw;
 }
 
+
 .main{
     width: 100vw;
     height: 85vh;
@@ -109,7 +110,7 @@ footer {
     left: 0;
     right: 0;
     background: orange;
-    height: 20vh;
+    height: 10vh;
     width: 100vw;
     color: black;
 }
@@ -256,6 +257,9 @@ iframe {
 .box1 a:hover {
     transform: scale(1.1);
     color: #0d0d0d;
+}
+a{
+    text-decoration: none;
 }
 
 .freedom-fighter-movies {
@@ -547,14 +551,18 @@ input[type="submit"]:hover {
 
     footer {
         width: 100vw;
-        height: 10vh;
+        height: 5vh;
     }
     img {
         width: 40vw;
+        height: 30vh;
     }
     .main{
         width: 100vw;
-        height: 35vh;
+        height: 28vh;
+    }
+    #middlename{
+        font-size: 2rem;
     }
 
     .image-movies {
