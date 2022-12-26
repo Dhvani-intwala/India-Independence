@@ -2,7 +2,7 @@
 
 Freedom fighter website is a simple-to-use, informative website aimed at giving a brief introduction to Indian freedom fighters and their contribution, about the History of the Indian National Flag, and about Indian achievements after Independence. Moreover, the User can also find books, movies, and resource links if the user wants to know more about India's history and culture. It provides also an option to the user for any feedback or suggestion about Freedom Fighters via the contact form.
 
-![Image of Freedom fighter's website on a varitey of devices with differing screen sizes](Readme-images/responsive-page.png)
+![Image of Freedom fighter's website on a varitey of devices with differing screen sizes](assets/Readme-images/responsive-page.png)
 
 [Visit the Freedom fighter's live website here](https://8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu79.gitpod.io/home.html)
 
@@ -47,7 +47,7 @@ Freedom fighter website is a simple-to-use, informative website aimed at giving 
 
 This website uses a palette of colours with shades pulled from white,Orange and black. These embody I wanted to create for the site because it looks pleasing to the eyes. The palette was created using the [Coolors](https://coolors.co/) website.
 
-![Image of colour palette from Coolors.co](Readme-images/Colour-Scheme.png)
+![Image of colour palette from Coolors.co](assets/Readme-images/Colour-Scheme.png)
 
 ## **Fonts**
 
@@ -64,17 +64,17 @@ The website has four main pages which are accessible to the users, which are the
 - All pages include the features Logo, navigation bar, and footer.
    - Logo: The Logo of Indian Freedom fighters gives the user a clear idea of what this website is all about. Here is the Logo shown below.
 
-   ![screenshot of the freedom-fighter's Logo](Readme-images/Logo-Freedom-Fighter.png)
+   ![screenshot of the freedom-fighter's Logo](assets/Readme-images/Logo-Freedom-Fighter.png)
 
    - Navigation bar: The navigation menu allows users to move through the different pages on the website. Navigation links are to the right side: history , resources, and contact.And on the left side there is website logo , clicking on the logo will take the user to the home page. 
 
-    ![screenshot of the freedom-fighter's navigation bar](Readme-images/menubar.png)
+    ![screenshot of the freedom-fighter's navigation bar](assets/Readme-images/menubar.png)
 
     - Footer: 
         - The footer contains three universally recognized icons for social media: Facebook, Youtube, and Twitter. 
         - Social media icon links will open a new tab to allow easy navigation for the users.
 
-     ![screenshot of the freedom-fighter's website footer](Readme-images/footer.png)
+     ![screenshot of the freedom-fighter's website footer](assets/Readme-images/footer.png)
 
 -  Here is a short preview of how a website looks on a mobile device.
    <br>
@@ -88,34 +88,34 @@ The website has four main pages which are accessible to the users, which are the
 The homepage gives users a glimpse of Indian Freedom Fighters through a large photo.
 After the image, there are short descriptions of the Indian independence movement. Thereby the users will follow brief introduction of the top six Indian Freedom Fighters.
 
- ![screenshot of the freedom-fighter's website homepage](Readme-images/Screenshot-Home-page.png)
+ ![screenshot of the freedom-fighter's website homepage](assets/Readme-images/Screenshot-Home-page.png)
 
 
 ### Historypage
 
 The History of India page consists of the simple layout of boxes. The webpage is being divided into three sections. The first section represents timeline of the Indian flag. The second section describes about Indian historical achievements in different sector's followed by the third section of the youtube video - Indian National Anthem
 
-![screenshot of the freedom-fighter's website Historypage](Readme-images/History-Screenshot.png)
+![screenshot of the freedom-fighter's website Historypage](assets/Readme-images/History-Screenshot.png)
 
 
 ### Resourcespage
 
 If the user wants to know about India, the user can go to the resources page where few books and movies about Indian Freedom fighters are recommended. Moreover, at the end of the resources page, there are a few website links which the user can explore if He / She wants to know more about India.
 
-![screenshot of the freedom-fighter's website Resourcespage](Readme-images/Screenshot-Resources.png)
+![screenshot of the freedom-fighter's website Resourcespage](assets/Readme-images/Screenshot-Resources.png)
 
 ### Contactpage
 
 If the user have any feedback or suggestions the user can feel the contact form .In this webpage the user will be asked to submit their name, email address along with their message.
 
-![screenshot of the freedom-fighter's website Contactpage](Readme-images/contact-page.png)
+![screenshot of the freedom-fighter's website Contactpage](assets/Readme-images/contact-page.png)
 
 
 ### Thank-you-page
 
 This page will appear when the user will submit the contact form where a Thank you message will be displaced, giving a confirming meassage to the user that their message has been submitted, and that someone will be in touch with them soon.
 
-![screenshot of the freedom-fighter's website thankyou page](Readme-images/thankpage.png)
+![screenshot of the freedom-fighter's website thankyou page](assets/Readme-images/thankpage.png)
 
 <br>
 
@@ -174,10 +174,10 @@ Testing was performed across a range of devices, including:
 ### **Lighthouse**
 
    - Lighthouse test for Mobile
-    ![screenshot of website performance test](Readme-images/mobile-performance-test.png)
+    ![screenshot of website performance test](assets/Readme-images/mobile-performance-test.png)
    
    - Lighthouse test for Desktop
-   ![screenshot of website performance test](Readme-images/Desktop-performance-test.png)
+   ![screenshot of website performance test](assets/Readme-images/Desktop-performance-test.png)
 
 
 

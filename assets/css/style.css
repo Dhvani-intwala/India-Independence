@@ -48,13 +48,11 @@ body {
     width: 100vw;
 }
 
-#image-outer {
+.main{
     width: 100vw;
-    height: 80vh;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
+    height: 85vh;
     object-fit: cover;
-    background-image: url("images/main-image.webp");
+    background-repeat: no-repeat;
 }
 
 #middlename {
@@ -552,8 +550,11 @@ input[type="submit"]:hover {
         height: 10vh;
     }
     img {
-        width: 45vw;
-
+        width: 70vw;
+    }
+    .main{
+        width: 100vw;
+        height: 50vh;
     }
 
     .image-movies {
@@ -582,10 +583,7 @@ input[type="submit"]:hover {
         flex-wrap: wrap;
         gap: 1rem;
     }
-    #image-outer {
-        width: 100vw;
-        height: 50vh;
-    }
+
     h2 {
         text-align: center;
     }
