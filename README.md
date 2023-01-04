@@ -2,7 +2,7 @@
 
 Freedom fighter website is a simple-to-use, informative website aimed at giving a brief introduction to Indian freedom fighters and their contribution, about the History of the Indian National Flag, and about Indian achievements after Independence. Moreover, the User can also find books, movies, and resource links if the user wants to know more about India's history and culture. It provides also an option to the user for any feedback or suggestion about Freedom Fighters via the contact form.
 
-![Image of Freedom fighter's website on a varitey of devices with differing screen sizes](assets/Readme-images/responsive-page.png)
+![Image of Freedom fighter's website on a varitey of devices with differing screen sizes](assets/Readme-images/responsive-page1.png)
 
 [Visit the Freedom fighter's live website here](https://dhvani-intwala.github.io/India-Independence/)
 
@@ -32,6 +32,7 @@ Freedom fighter website is a simple-to-use, informative website aimed at giving 
    - [Function Testing](#function-testing)
    - [Lighthouse](#lighthouse)
    - [Validator Testing](#validator-testing)
+   - [Bugs](#bugs)
 
 ### [Credits](#credits-1)
 
@@ -49,7 +50,7 @@ This website uses a palette of colours with shades pulled from white,Orange and 
 
 ![Image of colour palette from Coolors.co](assets/Readme-images/Colour-Scheme.png)
 
-## **Fonts**
+### **Fonts**
 
 [Google Fonts](https://fonts.google.com/) was used to source the font styles used throughout the website:
 - italic : section headings
@@ -88,27 +89,27 @@ The website has four main pages which are accessible to the users, which are the
 The homepage gives users a glimpse of Indian Freedom Fighters through a large photo.
 After the image, there are short descriptions of the Indian independence movement. Thereby the users will follow brief introduction of the top six Indian Freedom Fighters.
 
- ![screenshot of the freedom-fighter's website homepage](assets/Readme-images/Screenshot-Home-page.png)
+ ![screenshot of the freedom-fighter's website homepage](assets/Readme-images/Home-Screenshot.png)
 
 
 ### Historypage
 
 The History of India page consists of the simple layout of boxes. The webpage is being divided into three sections. The first section represents timeline of the Indian flag. The second section describes about Indian historical achievements in different sector's followed by the third section of the youtube video - Indian National Anthem
 
-![screenshot of the freedom-fighter's website Historypage](assets/Readme-images/History-Screenshot.png)
+![screenshot of the freedom-fighter's website Historypage](assets/Readme-images/History-Screenshot1.png)
 
 
 ### Resourcespage
 
 If the user wants to know about India, the user can go to the resources page where few books and movies about Indian Freedom fighters are recommended. Moreover, at the end of the resources page, there are a few website links which the user can explore if He / She wants to know more about India.
 
-![screenshot of the freedom-fighter's website Resourcespage](assets/Readme-images/Screenshot-Resources.png)
+![screenshot of the freedom-fighter's website Resourcespage](assets/Readme-images/resorcespage1.png)
 
 ### Contactpage
 
 If the user have any feedback or suggestions the user can feel the contact form .In this webpage the user will be asked to submit their name, email address along with their message.
 
-![screenshot of the freedom-fighter's website Contactpage](assets/Readme-images/contact-page.png)
+![screenshot of the freedom-fighter's website Contactpage](assets/Readme-images/contact-page1.png)
 
 
 ### Thank-you-page
@@ -138,10 +139,18 @@ This website has been written in HTML and CSS and a little bit of JavaScript.
 - Google Fonts: To import the fonts used throughout the site
 - Coolors: Colour palette picking website used to choose my color scheme
 - Snipping Tool: To crop and screenshot images
+- Microsoft PowerToys: To resize all images
 - [Gyazo](https://gyazo.com): To make gif
 - [TinyPNG](https://tinypng.com/): To compress images
 - [Convertio](https://convertio.co/): To convert Jpg image to Webp
 - [Techsini](https://techsini.com/multi-mockup/): For Responsive Website
+
+## Deployment
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+   - In the GitHub repository, navigate to the Settings tab
+   - From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
+   - Once the main branch has been saved, the page provides the link to the completed website.
+
 
 ## Testing
 
@@ -185,13 +194,30 @@ Testing was performed across a range of devices, including:
 
 No error was returned when passing through the official website for all the pages:
 
-  -  index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Findex.html)
-  -  history.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fhistory.html)
-  - resources.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fresources.html)
-  - contact.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fcontact.html)
-  - thanks.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fthankyou.html%3Ffname%3Ddhvani%26lname%3Dintwala%26email%3Dintdhvani2627%2540gmail.com)
+- HTML
 
+  -  No errors were found in index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Findex.html)
+  - No errors were found in history.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fhistory.html)
+  - No errors were found in resources.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fresources.html)
+  - No errors were found in contact.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fcontact.html)
+  - No errors were found in thanks.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fthankyou.html%3Ffname%3Ddhvani%26lname%3Dintwala%26email%3Dintdhvani2627%2540gmail.com)
 
+- CSS
+
+   - No errors were found in style.css
+   ![screenshot of css validator](assets/Readme-images/css-validator.png)
+
+### Bugs
+   
+   - During Website performance in Lighthouse
+
+      - Performance was low due to jpg images format. Bugs were removed by converting all images from jpg format to webp format.
+      - Performance was low because all the images were of different sizes. The problem was solved by using Microsoft PowerToys software and resizing all the images.
+
+   - During Website testing on different devices
+   
+     - The footer in the contact page was in the middle of the page and was detected when testing the website on Ipad air. The problem was solved by adding position as relative and min-height to be 100vh inside the body element.
+     - The main image on the Index page was stretched during the testing website on the mobile device. The bug was solved by reducing height and making use of an object-fit cover.
   <br>
 
   ## Credits

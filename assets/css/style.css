@@ -1,5 +1,5 @@
 /* google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Source+Sans+Pro:wght@300;400&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Comforter&family=IBM+Plex+Sans:wght@300&family=Lobster&family=Marck+Script&family=Mukta:wght@500&family=Nanum+Gothic&family=Noto+Serif+NP+Hmong:wght@500&family=Pacifico&family=Rubik+Vinyl&family=Sacramento&display=swap');
 
 /* default styles */
 * {
@@ -10,10 +10,13 @@
 }
 /* base styles */
 body {
-    font-family: sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     font-weight: 200;
     color: black;
     background-color: #f3edeb;
+    position: relative;
+    padding-bottom: 153px;
+    min-height: 100vh;
 }
 
 /* **********Index page style********** */
@@ -34,6 +37,7 @@ body {
     padding-right: 20px;
     display: flex;
     justify-content: space-between;
+    
 }
 
 .topnav a.active {
@@ -45,20 +49,19 @@ body {
     display: none;
 }
 .topnav {
-    width: 100vw;
+    width: 100%;
 }
 
 
 .main{
-    width: 100vw;
-    height: 85vh;
+    width: 100%;
+    height: 80vh;
     object-fit: cover;
-    background-repeat: no-repeat;
 }
 
 #middlename {
     text-align: center;
-    margin: 30px 0;
+    margin: 10px 0;
     font-size: 3rem;
 }
 
@@ -106,13 +109,14 @@ img {
 /* ******* footer style ********* */
 footer {
     margin-top: 20px;
-    bottom: 0;
-    left: 0;
-    right: 0;
     background: orange;
     height: 10vh;
     width: 100vw;
     color: black;
+    position: absolute;
+    bottom: 0;
+
+   
 }
 
 .social-networks {
@@ -139,6 +143,7 @@ footer {
 /* *********** History page************* */
 
 h2 {
+    font-family: 'Sansita Swashed', cursive;
     display: flex;
     flex-direction: row;
     margin-top: 30px;
@@ -493,6 +498,7 @@ input[type="submit"]:hover {
     .indian-achievement {
         grid-template-columns: repeat(1, 1fr);
     }
+ 
 }
 
 @media (min-width: 900px) {
@@ -514,6 +520,7 @@ input[type="submit"]:hover {
         width: 60vw;
         height: 40vh;
     }
+    
 }
 
 @media screen and (max-width: 994px) {
@@ -559,7 +566,8 @@ input[type="submit"]:hover {
     }
     .main{
         width: 100vw;
-        height: 28vh;
+        height: 35vh;
+        object-fit: cover;
     }
     #middlename{
         font-size: 2rem;
@@ -595,11 +603,11 @@ input[type="submit"]:hover {
     h2 {
         text-align: center;
     }
-    .contactForm {
-        display: inline-block;
-        margin: 40px;
+    .contactForm{
+        display: block;
         width: 80vw;
     }
+
 }
 
 @media screen and (max-width: 600px) {
@@ -634,4 +642,10 @@ input[type="submit"]:hover {
         width: 20vw;
         height: 20vh;
     }
+    .main{
+        width: 100vw;
+        height: 25vh;
+        object-fit: cover;
+    }
+    
 }
