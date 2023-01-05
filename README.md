@@ -150,7 +150,7 @@ This website has been written in HTML and CSS and a little bit of JavaScript.
    - In the GitHub repository, navigate to the Settings tab
    - From the side menu go to pages under Code and automation, then under Build and deployment select the main Branch, and click on to save button.
    ![Image of colour palette from Coolors.co](assets/Readme-images/deployment-img.png)
-      - Once the main branch has been saved, the page will provide the link to the completed website.
+   - Once the main branch has been saved, the page will provide the link to the completed website.
    ![Image of colour palette from Coolors.co](assets/Readme-images/deployment-link.png)
 
 ## Testing
@@ -196,11 +196,11 @@ No error was returned when passing through the official website for all the page
 
 - HTML
 
-  -  No errors were found in index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Findex.html)
-  - No errors were found in history.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fhistory.html)
-  - No errors were found in resources.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fresources.html)
-  - No errors were found in contact.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fcontact.html)
-  - No errors were found in thanks.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu80.gitpod.io%2Fthankyou.html%3Ffname%3Ddhvani%26lname%3Dintwala%26email%3Dintdhvani2627%2540gmail.com)
+  -  No errors were found in index.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu81.gitpod.io%2F)
+  - No errors were found in history.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu81.gitpod.io%2Fhistory.html)
+  - No errors were found in resources.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu81.gitpod.io%2Fresources.html)
+  - No errors were found in contact.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu81.gitpod.io%2Fcontact.html)
+  - No errors were found in thanks.html [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2F8000-dhvaniintwa-indiaindepe-rl8qyhlukai.ws-eu81.gitpod.io%2Fthankyou.html%3Ffname%3Ddhvani%26lname%3Dintwala%26email%3Dintdhvani2627%2540gmail.com)
 
 - CSS
 
