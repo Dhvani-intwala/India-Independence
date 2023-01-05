@@ -52,22 +52,22 @@ This website uses a palette of colours with shades pulled from white,Orange and 
 
 ### **Fonts**
 
-[Google Fonts](https://fonts.google.com/) was used to source the font styles used throughout the website:
-- italic : section headings
-- sans-serif : Used for main body text and the logo 
+[Google Fonts](https://fonts.google.com/) was used to source the font styles used throughout the website :
+- cursive : section headings
+- sans-serif : used for main body text and logo 
 
-These fonts were chosen to be in keeping with the style of the website; clean and simple. They were also chosen to ensure maximum accessibility.
+These fonts were chosen to keep the website style as clean and simple. They were also chosen to ensure maximum accessibility.
 
 ## Features
 ### **Existing Features**
-The website has four main pages which are accessible to the users, which are the home page, history of India page, Resources page, and Contact page. There is also a thank you page which only appears when the user submits the contact form.
+The website has four main pages which are accessible to the users, which are the home page, history of India page, Resources page, and Contact page. There is also a thank you page which only appears when the user submit the contact form.
 
 - All pages include the features Logo, navigation bar, and footer.
    - Logo: The Logo of Indian Freedom fighters gives the user a clear idea of what this website is all about. Here is the Logo shown below.
 
    ![screenshot of the freedom-fighter's Logo](assets/Readme-images/Logo-Freedom-Fighter.png)
 
-   - Navigation bar: The navigation menu allows users to move through the different pages on the website. Navigation links are to the right side: history , resources, and contact.And on the left side there is website logo , clicking on the logo will take the user to the home page. 
+   - Navigation bar: The navigation menu allows users to move through the different pages on the website. Navigation links to the right side are: history , resources, and contact. And on the left side there is website logo , clicking on the logo will take the user to the home page. 
 
     ![screenshot of the freedom-fighter's navigation bar](assets/Readme-images/menubar.png)
 
@@ -86,7 +86,7 @@ The website has four main pages which are accessible to the users, which are the
 
 ### Homepage
 
-The homepage gives users a glimpse of Indian Freedom Fighters through a large photo.
+The homepage gives user's a glimpse of Indian Freedom Fighter's through a large photo.
 After the image, there are short descriptions of the Indian independence movement. Thereby the users will follow brief introduction of the top six Indian Freedom Fighters.
 
  ![screenshot of the freedom-fighter's website homepage](assets/Readme-images/Home-Screenshot.png)
@@ -101,13 +101,13 @@ The History of India page consists of the simple layout of boxes. The webpage is
 
 ### Resourcespage
 
-If the user wants to know about India, the user can go to the resources page where few books and movies about Indian Freedom fighters are recommended. Moreover, at the end of the resources page, there are a few website links which the user can explore if He / She wants to know more about India.
+If the user wants to know about India, the user can go to the resources page where few books and movies about Indian Freedom fighter's are recommended. Moreover, at the end of the resources page, there are a few website links which the user can explore if He / She wants to know more about India.
 
 ![screenshot of the freedom-fighter's website Resourcespage](assets/Readme-images/resorcespage1.png)
 
 ### Contactpage
 
-If the user have any feedback or suggestions the user can feel the contact form .In this webpage the user will be asked to submit their name, email address along with their message.
+If the user have any feedback or suggestions the user can feel the contact form. In this webpage the user will be asked to submit their name, email address along with their message.
 
 ![screenshot of the freedom-fighter's website Contactpage](assets/Readme-images/contact-page1.png)
 
@@ -122,9 +122,9 @@ This page will appear when the user will submit the contact form where a Thank y
 
 ### **Accessibility**
 
-For the Best user experience having an accessible website is most important. Therefore, I have used simple font styling so that the user can read easily. Also the contrast between the background and foreground color also meet good accessibility.The website is designed in such a way that the foreground information is never distracted by backgrounds.
+For the Best user experience having an accessible website is most important. Therefore, I have used simple font styling so that the user can read easily. Also the contrast between the background and foreground color also meet good accessibility.The website is designed in such a way that the foreground information is never distracted by background.
 
-Addition of a fixed menu bar so users can easily navigate around the site. The website is made by Using semantic HTML. Ensuring all images have an alt description for screen readers or where the image cannot be loaded. 
+The website is made by Using semantic HTML. Ensuring all images have an alt description for screen readers or where the image cannot be loaded. 
 
 ## Technologies
 ### **Languages Used**
@@ -148,9 +148,10 @@ This website has been written in HTML and CSS and a little bit of JavaScript.
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
    - In the GitHub repository, navigate to the Settings tab
-   - From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
-   - Once the main branch has been saved, the page provides the link to the completed website.
-
+   - From the side menu go to pages under Code and automation, then under Build and deployment select the main Branch, and click on to save button.
+   ![Image of colour palette from Coolors.co](assets/Readme-images/deployment-img.png)
+      - Once the main branch has been saved, the page will provide the link to the completed website.
+   ![Image of colour palette from Coolors.co](assets/Readme-images/deployment-link.png)
 
 ## Testing
 
@@ -160,7 +161,7 @@ Testing was performed across a range of devices, including:
 - When a nav element is clicked, it provides the navigation link to the respective page.
 - the responsiveness of the website on different screen sizes (Mobile S-320px, Mobile M-375px, Mobile L-425px, Tablet-768px,     
   Laptop-1024px) using the Devtools service toolbar. The different CSS properties for font, color, background color, links, submit button work as expected.
-- Inside the footer, social media is linked when clicked on it. The link directs to the respective social media page.
+- Inside the footer, social media is linked when clicked on it,the link directs to the respective social media page.
 
 ### **Function Testing**
 
@@ -168,7 +169,6 @@ Testing was performed across a range of devices, including:
 | :----| :---| :----------------------:|
 | All  | Logo text links back to homepage | Yes |
 | All  | Navigation links go to relevant page | Yes |
-| All  | Navigation menu remains fixed at top of page on scroll | Yes |
 | All  | Social media icons in footer link to external sites, opening in new tabs | Yes |
 | All  | External links open to correct page | Yes |
 | Homepage  | Grid is responsive | Yes |
@@ -223,7 +223,7 @@ No error was returned when passing through the official website for all the page
   ## Credits
   ### **References**
 
-  Some of the texts and images  for the Home page and Our History page was taken from different search results from Google/Bing.
+  Some of the texts and images  for the Home page and History page was taken from different search results from Google/Bing.
 
   - References for images:
       - Index page:
@@ -252,7 +252,7 @@ No error was returned when passing through the official website for all the page
          
   ### **Acknowledgements**
 
-  At first, I would like to thank my mentor Akshat Garg for helping me during my First project with HTML and CSS by providing good guidance and suggesting things which has helped me in eliminating bugs and making a good website. With my commitment and positive approach, not only I completed my First project but had also learned many new cool stuffs in making websites. Moreover, I would also like to thank Slack Team who were always there to keep me motivated throughout my project.
+  At first, I would like to thank my mentor Mr. Akshat Garg for helping me during my first project with HTML and CSS by providing good guidance and suggesting things which has helped me in eliminating bugs and making a good website. With my commitment and positive approach, not only I completed my first project but had also learned many new cool stuffs in making websites. Moreover, I would also like to thank Slack Team who were always there to keep me motivated throughout my project.
 
 
 
